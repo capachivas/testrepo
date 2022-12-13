@@ -1,0 +1,3 @@
+#display
+
+print("salut")
